@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707163770283",
+    "project_id": "library-book-tracker-salut",
+    "storage_bucket": "library-book-tracker-salut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707163770283:android:44ac367473123cafe196ee",
+        "android_client_info": {
+          "package_name": "com.example.librarybooktracker_salut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707163770283-hao1ejp79q3mgehmju9mvcdm472r7033.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACi0-6W592qOj3p--WwTMh4M7XvIddEdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707163770283-hao1ejp79q3mgehmju9mvcdm472r7033.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
